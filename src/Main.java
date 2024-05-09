@@ -7,17 +7,17 @@ public class Main{
 //        task3(a,32);
 //        task4
 //        Insert/greater
-        int[] arIn = {88,20,32,45};
-        int[] arSor = {23,90,-9,4};
-        print(arIn);
-        task4insert(arIn);
-        print(arIn);
-        sortCheck(arIn);
-//        Sort/lesser
-        print(arSor);
-        task4select(arSor);
-        print(arSor);
-        sortCheck(arSor);
+//        int[] arIn = {88,20,32,45};
+//        int[] arSor = {23,90,-9,4};
+//        print(arIn);
+//        task4insert(arIn);
+//        print(arIn);
+//        sortCheck(arIn);
+////        Sort/lesser
+//        print(arSor);
+//        task4select(arSor);
+//        print(arSor);
+//        sortCheck(arSor);
 
     }
     public static void task1(int num1,int num2){
